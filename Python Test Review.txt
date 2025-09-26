@@ -1,0 +1,67 @@
+Section 1:
+
+What version of python are you running and how can you find it?
+start > python -- should be version 3
+
+What editors are used in this class?
+Mu
+IDLE
+Python CMD
+
+Finding working directory:
+os.getcwd()
+
+Python Traceback:
+Means there is some type of error in script. Will tell you if there are any errors in script, location of error, and error type. 
+
+Rules to declare a variable in python:
+Only contains alphabets, numbers, and underscore
+Must start with letter or underscore
+Cannot start with numbers
+Are case sensitive
+
+Python Data Structures:
+Lists
+Tuples
+Sets
+Dictionaries
+
+IDLE Color Coding
+Black - Data / variables
+Green - string
+Purple - functions
+Orange - commands
+Blue - user functions
+Dark red- comments
+Light red - error messages
+
+Python Boolean Operators:
+Questioning the script in process to make a decision. Evaluates a script to determine whether a statement is true or false. 
+
+Brackets used in python:
+[] = list
+() = tuple
+{} = set
+
+How to merge two or more dictionaries:
+Go through this script. Know syntax and understand how and why dictionaries are merged and what is occurring.
+
+Python Keywords:
+def if for class import - know and define those keywords to best of ability
+
+There will be a question about indexing
+starts at 0. Know how to index a list and that it starts at 0. 
+
+Python id(object):
+find this script and know it. 
+unique identifier for your machine in python
+
+Directories in python:
+Question: provide the following locations on your device:
+1.Files listed below user name
+2.Drive letter
+3.Primary Net202 Folder
+4.Home Directory
+
+File handling.
+Know about absolute path. Provide absolute path for Net202/Content. 
